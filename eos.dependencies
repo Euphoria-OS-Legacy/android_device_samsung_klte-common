@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "Euphoria-OS-Legacy/android_device_samsung_msm8974-common",
+    "target_path": "device/samsung/msm8974-common"
+  },
+  {
+    "repository": "Euphoria-OS-Legacy/android_kernel_samsung_klte",
+    "target_path": "kernel/samsung/klte"
+  }
+]
